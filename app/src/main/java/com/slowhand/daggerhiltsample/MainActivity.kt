@@ -16,6 +16,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import com.slowhand.daggerhiltsample.ui.theme.DaggerHiltSampleTheme
 import dagger.hilt.android.AndroidEntryPoint
+import io.github.aakira.napier.Napier
 
 @AndroidEntryPoint
 class MainActivity : ComponentActivity() {
